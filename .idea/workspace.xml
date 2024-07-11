@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="42ec8969-21ac-4e03-90da-aca7dea54fc8" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/br/com/ariel/construtores/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/ariel/construtores/Produto.java" afterDir="false" />
-    </list>
+    <list default="true" id="42ec8969-21ac-4e03-90da-aca7dea54fc8" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
