@@ -1,3 +1,5 @@
+package br.com.ariel.construtores;
+
 public class Aluno {
     private String nome;
     private int idade;
