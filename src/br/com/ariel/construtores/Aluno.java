@@ -3,6 +3,7 @@ package br.com.ariel.construtores;
 public class Aluno {
     private String nome;
     private int idade;
+    private String teste;
 
     public Aluno(String nome, int idade) {
         this.nome = nome;
